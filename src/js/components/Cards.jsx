@@ -12,7 +12,7 @@ const Cards = () => {
               <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapeinte esse necessitatibus neque.</p>
             </div>
             <div className="card-footer bg-transparent">
-              <a href="#" className="btn btn-primary">Go somewhere</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
@@ -24,7 +24,7 @@ const Cards = () => {
               <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapeinte esse necessitatibus neque.</p>
             </div>
             <div className="card-footer bg-transparent">
-              <a href="#" className="btn btn-primary">Go somewhere</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
@@ -36,7 +36,7 @@ const Cards = () => {
               <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapeinte esse necessitatibus neque.</p>
             </div>
             <div className="card-footer bg-transparent">
-              <a href="#" className="btn btn-primary">Go somewhere</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
@@ -48,7 +48,7 @@ const Cards = () => {
               <p className="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapeinte esse necessitatibus neque.</p>
             </div>
             <div className="card-footer bg-transparent">
-              <a href="#" className="btn btn-primary">Go somewhere</a>
+              <a href="#" className="btn btn-primary">Find Out More!</a>
             </div>
           </div>
         </div>
